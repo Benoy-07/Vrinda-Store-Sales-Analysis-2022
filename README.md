@@ -114,6 +114,4 @@ Vrinda-Store-Sales-Analysis-2022/
 ## How to Explore
 View the preview above and open CSV files under `data/aggregated/`. The public version intentionally includes **aggregated non-customer-level data**. If you can securely produce and share a public-safe Excel workbook, add it under `excel/` and link it here.
 
-## Author
-**[Md Hajek Anjum Benoy]** — Aspiring Data Analyst  
-[GitHub Profile](https://github.com/Benoy-07) · [LinkedIn Profile](https://www.linkedin.com/in/md-hajek-anjum-benoy-76b601281)
+
